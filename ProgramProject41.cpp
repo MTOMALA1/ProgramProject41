@@ -2,7 +2,7 @@
 Programmer: Marcos Tomala
 Date: November 2025
 Requirements:
-Write a prgram that allows you to guess a random number with hints.
+Write a prgram that allows you to open a file and make a bar chart based on dates and numbers
 */
 #include <iostream>
 #include <fstream>
